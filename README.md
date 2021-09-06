@@ -1,5 +1,5 @@
 # BigInt
-Operate on numbers than what long long limits you to.
+Operate on numbers larger than what long long limits you to.
 ## 1. Arithematic Fucntions 
 add, substract, multiply, abstract
 ## 2. Comparison Functions
