@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #include "BigInt.h"
 using namespace std;
-//syntax to declare bigint == BigInt x;
+//syntax to declare bigint => BigInt x;
 //bigint.read() [reads the value and stores it in the variable]
 //bigint.print() [outputs the value stored in the bigint]
 //bigint.setBig(string) [sets the value of bigint to passed string]
