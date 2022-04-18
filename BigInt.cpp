@@ -13,7 +13,7 @@ using namespace std;
 //isless(bigint , bigint) [returns true if first argument is less than second argument]
 //isgreater(bigint , bigint) [returns true if first argument is greater than second argument]
 //swap(bigint , bigint ) [swaps the value of passed args]
-//sort(bigint[] , size) [arguments=a bigint array + size of array]
+//sort(bigint[] , size) (sorts an array of Bigint) [arguments=> (a bigint array , size of array)]
 //add(BigInt x , BigInt y) [returns the sum]
 //substract(BigInt x , BigInt y)[return the substraction (x-y)]
 //multiply(BigInt x , BigInt y)[returns the product]
